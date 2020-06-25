@@ -3,7 +3,7 @@
 ___
 
 ## Sabreena Croteau
-### June 25, 2019
+### June 25, 2020
 
 
 ___
@@ -18,9 +18,9 @@ I have completed my two comprehensive exams in substantive field (International 
 #### **How I Did This**
 * Followed all the instructions on the course website. But, though the intructions were very clear, I didn't really understand what I was doing, just blindly following along
 * So I had a friend that uses Git everyday walk through everything with me to explain everything, this was very helpful.
-*Once I understood how to push and pull from Git just with the shell, I gave it a try in RStudio
-*I also did find the [reference page](https://cfss.uchicago.edu/faq/homework-guidelines/#homework-workflow) to be very helpful
-*This little [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) also helped as a reference
+* Once I understood how to push and pull from Git just with the shell, I gave it a try in RStudio
+* I also did find the [reference page](https://cfss.uchicago.edu/faq/homework-guidelines/#homework-workflow) to be very helpful
+* This little [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) also helped as a reference
 
 
 Well, there it is! My first pull request homework assignment attempt. Hope you like it!
